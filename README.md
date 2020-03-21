@@ -1,4 +1,4 @@
-# Helpful Engineerin COVID-19 Project Explorer UI
+# [Helpful Engineering](https://www.helpfulengineering.org/) COVID-19 Project Explorer UI
 
 See [project proposal here](https://github.com/Helpful-Engineers/resources/blob/master/software/proposals/navigate-by-problems.md) for inspiration and motivation details.
 
