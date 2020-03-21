@@ -2,8 +2,8 @@ import colors from 'vuetify/es5/util/colors';
 import webpack from 'webpack';
 
 const baseUrl = process.env.API_BASE_URL || '/';
-const appTitle = process.env.APP_TITLE || process.env.npm_package_name || 'PROJECT TITLE';
-const appDesciption = process.env.APP_DESCRIPTION || process.env.npm_package_description || '';
+const appTitle = process.env.APP_TITLE || process.env.npm_package_name || 'Covid-19 Project Explorer';
+const appDesciption = process.env.APP_DESCRIPTION || process.env.npm_package_description || 'UI to discover and explore existing covid-19 mitigation projects spawned from helpfulengineering.org ';
 const supportedLocales = [
   {
     code: 'en',
