@@ -35,3 +35,4 @@ Nuxt generates a static site for production.
 - Include screencaptures in any merge requests that involve updating the UI to save review time. ([Gyazo](https://gyazo.com/) is good for capturing animations easily)
 - Ensure do-it-later (aka do-it-friday) comments are prefixed with capitalised "TODO" as a convention so it's easy to highlight and find them all
 - [Vue i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.vue-i18n-ally) is an invaluable vscode extension for reducing i18n effort if needed.
+- You'll need to rebuild your dev instance with `make start` if you add new source folders that are required in the build (e.g. "layouts")
