@@ -21,6 +21,7 @@
     "@nuxt/typescript-runtime": "0.3.8",
     "@nuxtjs/auth": "^4.8.5",
     "@nuxtjs/axios": "5.9.5",
+    "airtable": "^0.8.1",
     "nuxt": "2.11.0",
     "nuxt-i18n": "^6.5.0",
     "nuxt-property-decorator": "2.5.0",
