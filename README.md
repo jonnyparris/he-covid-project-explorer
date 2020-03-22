@@ -1,4 +1,7 @@
 # [Helpful Engineering](https://www.helpfulengineering.org/) COVID-19 Project Explorer UI
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 See [project proposal here](https://github.com/Helpful-Engineers/resources/blob/master/software/proposals/navigate-by-problems.md) for inspiration and motivation details.
 
@@ -32,6 +35,18 @@ Thanks to everyone contributing in any manner for this repo and to everyone work
 ## Contributors ✨
 
 Wonderful contributors get a huge thank you here: ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://tech.mangot.com/"><img src="https://avatars3.githubusercontent.com/u/991892?v=4" width="100px;" alt=""/><br /><sub><b>Dave Mangot</b></sub></a><br /><a href="#ideas-dmangot" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
