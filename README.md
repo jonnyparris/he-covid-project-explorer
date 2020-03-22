@@ -1,4 +1,7 @@
 # [Helpful Engineering](https://www.helpfulengineering.org/) COVID-19 Project Explorer UI
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 See [project proposal here](https://github.com/Helpful-Engineers/resources/blob/master/software/proposals/navigate-by-problems.md) for inspiration and motivation details.
 
@@ -36,3 +39,22 @@ Nuxt generates a static site for production.
 - Ensure do-it-later (aka do-it-friday) comments are prefixed with capitalised "TODO" as a convention so it's easy to highlight and find them all
 - [Vue i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.vue-i18n-ally) is an invaluable vscode extension for reducing i18n effort if needed.
 - You'll need to rebuild your dev instance with `make start` if you add new source folders that are required in the build (e.g. "layouts")
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.mutter.co"><img src="https://avatars3.githubusercontent.com/u/9489658?v=4" width="100px;" alt=""/><br /><sub><b>Johannes Mutter</b></sub></a><br /><a href="#ideas-johannesmutter" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
