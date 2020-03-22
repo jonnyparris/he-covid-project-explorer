@@ -5,11 +5,11 @@ const base = new Airtable({
   apiKey: AIRTABLE_API_KEY
 }).base(AIRTABLE_BASE_ID);
 
-const atTopProblemsTable = base('Top level difficulties');
+const atTopProblemsTable = base('Proposed solutions');
 
 // TODO make this async
 exports.handler = (_event, _context, callback) => {
-  const problems = [];
+  const proposals = [];
   atTopProblemsTable
     .select({
       maxRecords: 25,
@@ -17,11 +17,13 @@ exports.handler = (_event, _context, callback) => {
     })
     .eachPage(
       function page(records, fetchNextPage) {
-        problems.push(
-          ...records.map(record => {
-            return { name: record.get('Name'), id: record.id };
-          })
-        );
+        proposals.push(...records.map(record => {
+          return {
+            id: record.id,
+            name: record.get('Title'),
+            problem: record.get('Problems tackled')
+          };
+        }));
         fetchNextPage();
       },
       function done(err) {
@@ -30,7 +32,7 @@ exports.handler = (_event, _context, callback) => {
         } else {
           callback(null, {
             statusCode: 200,
-            body: JSON.stringify(problems)
+            body: JSON.stringify(proposals)
           });
         }
       }

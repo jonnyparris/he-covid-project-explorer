@@ -5,7 +5,7 @@ const base = new Airtable({
   apiKey: AIRTABLE_API_KEY
 }).base(AIRTABLE_BASE_ID);
 
-const atTopProblemsTable = base('Top level difficulties');
+const atTopProblemsTable = base('Specific problems to solve');
 
 // TODO make this async
 exports.handler = (_event, _context, callback) => {
@@ -17,11 +17,13 @@ exports.handler = (_event, _context, callback) => {
     })
     .eachPage(
       function page(records, fetchNextPage) {
-        problems.push(
-          ...records.map(record => {
-            return { name: record.get('Name'), id: record.id };
-          })
-        );
+        problems.push(...records.map(record => {
+          return {
+            id: record.id,
+            name: record.get('Problem'),
+            category: record.get('Category')
+          };
+        }));
         fetchNextPage();
       },
       function done(err) {
