@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "robelkin",
+      "name": "Rob Elkin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/187335?v=4",
+      "profile": "https://github.com/robelkin",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "he-covid-project-explorer",
+  "projectOwner": "jonnyparris",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
