@@ -12,7 +12,7 @@ See [project proposal here](https://github.com/Helpful-Engineers/resources/blob/
 
 ### Run it locally
 
-1. Install docker & make sure it's running.
+1. Install [Docker](https://docs.docker.com/install/) & make sure it's running.
 2. `make start` (see notes below if using MacOS and stuck at this step)
 3. Open [http://localhost:7000/](http://localhost:7000/)
 
