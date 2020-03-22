@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "psprings",
+      "name": "Peter Springsteen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9847879?v=4",
+      "profile": "https://github.com/psprings",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "he-covid-project-explorer",
+  "projectOwner": "jonnyparris",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
