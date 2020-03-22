@@ -5,6 +5,15 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
+    {
+      "login": "dmangot",
+      "name": "Dave Mangot",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/991892?v=4",
+      "profile": "http://tech.mangot.com/",
+      "contributions": [
+        "ideas"
+      ]
+    },
     { 
       "login": "sarahleejane",
       "name": "Sarah Constant",
