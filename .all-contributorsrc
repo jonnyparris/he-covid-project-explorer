@@ -5,13 +5,23 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
-    {
+    { 
       "login": "sarahleejane",
       "name": "Sarah Constant",
       "avatar_url": "https://avatars1.githubusercontent.com/u/8582484?v=4",
       "profile": "http://sarahleejane.github.io/",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "robelkin",
+      "name": "Rob Elkin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/187335?v=4",
+      "profile": "https://github.com/robelkin",
+      "contributions": [
+        "ideas",
+        "data"
       ]
     }
   ],
