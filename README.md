@@ -31,6 +31,18 @@ Thanks to everyone contributing in any manner for this repo and to everyone work
 ## Contributors ✨
 
 Wonderful contributors get a huge thank you here: ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/psprings"><img src="https://avatars1.githubusercontent.com/u/9847879?v=4" width="100px;" alt=""/><br /><sub><b>Peter Springsteen</b></sub></a><br /><a href="#ideas-psprings" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

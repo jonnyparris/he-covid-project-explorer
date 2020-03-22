@@ -6,6 +6,16 @@
   "commit": false,
   "contributors": [
     {
+      "login": "psprings",
+      "name": "Peter Springsteen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9847879?v=4",
+      "profile": "https://github.com/psprings",
+      "contributions": [
+        "ideas",
+        "data"
+      ]
+    },
+    {
       "login": "dmangot",
       "name": "Dave Mangot",
       "avatar_url": "https://avatars3.githubusercontent.com/u/991892?v=4",
