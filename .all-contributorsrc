@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "johannesmutter",
+      "name": "Johannes Mutter",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9489658?v=4",
+      "profile": "http://www.mutter.co",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
       "login": "psprings",
       "name": "Peter Springsteen",
       "avatar_url": "https://avatars1.githubusercontent.com/u/9847879?v=4",

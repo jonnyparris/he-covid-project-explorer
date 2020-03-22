@@ -36,20 +36,9 @@ Wonderful contributors get a huge thank you here: ([emoji key](https://allcontri
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/psprings"><img src="https://avatars1.githubusercontent.com/u/9847879?v=4" width="100px;" alt=""/><br /><sub><b>Peter Springsteen</b></sub></a><br /><a href="#ideas-psprings" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
+    <td align="center"><a href="http://www.mutter.co"><img src="https://avatars3.githubusercontent.com/u/9489658?v=4" width="100px;" alt=""/><br /><sub><b>Johannes Mutter</b></sub></a><br /><a href="#ideas-johannesmutter" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://tech.mangot.com/"><img src="https://avatars3.githubusercontent.com/u/991892?v=4" width="100px;" alt=""/><br /><sub><b>Dave Mangot</b></sub></a><br /><a href="#ideas-dmangot" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/psprings"><img src="https://avatars1.githubusercontent.com/u/9847879?v=4" width="100px;" alt=""/><br /><sub><b>Peter Springsteen</b></sub></a><br /><a href="#ideas-psprings" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/robelkin"><img src="https://avatars3.githubusercontent.com/u/187335?v=4" width="100px;" alt=""/><br /><sub><b>Rob Elkin</b></sub></a><br /><a href="#ideas-robelkin" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://sarahleejane.github.io/"><img src="https://avatars1.githubusercontent.com/u/8582484?v=4" width="100px;" alt=""/><br /><sub><b>Sarah Constant</b></sub></a><br /><a href="#ideas-sarahleejane" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
